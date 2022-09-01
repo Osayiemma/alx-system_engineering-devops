@@ -1,1 +1,1 @@
-a script that changes the working directory to the previous one
+lists files in the current directory and the parent of the working directory
